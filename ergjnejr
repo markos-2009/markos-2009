@@ -1,0 +1,79 @@
+<!-- HEADER -->
+<header>
+    
+       <A HREF="https://codepen.io/Vorobey2022/pen/RwyLXXp" > КОНТАКТИ </A>
+       <nav id="menu1">
+    <ul>
+      <div id="lines"></div>
+      <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">  
+        <span class="icon-bar"> <li><a href="класна робота.html">класна робота</a></li></span>  
+        <span class="icon-bar"> <li><a href="освита.html">освита</a></li></span>  
+        <span class="icon-bar"></span>  
+    </button> 
+    <ul>
+
+      </li>
+    </ul>
+    <li><a href="#m3">MENU</a>
+    <ul>
+    <li><a href="#m3_1">фесбук</a></li>
+    <li><a href="#m3_2">телиграм</a></li>
+    <li><a href="#m3_3">Menu</a></li>
+    <li><a href="#m3_4">Menu</a></li>
+    <li><a href="#m3_5">Menu</a></li
+    </ul>
+    </li>
+    <li><a href="#m4">MENU</a></li>
+    <li><a href="#m5">MENU</a></li>
+  </ul>
+    </nav>
+    </header>
+    <!-- MAIN -->
+ 
+ 
+  
+    <!-- FOOTER -->
+    <footer>
+    <div class="footer-column">
+    <h3></h3>
+    <p>
+      
+    <br><strong>
+    <a href="#"><font color="red"> </ font >
+    </a></ font ></strong>
+    </footer>
+
+    <img src=""></img>
+
+    <div id="nav-btn"></div>
+    <style type="text/css">
+
+      body {
+  background-image: url('https://static.wikia.nocookie.net/genshin-impact/images/8/80/Genshin_Impact.png/revision/latest?cb=20210316085544&path-prefix=ru');
+  background-size: cover;
+  background-attachment: fixed;
+}
+body { padding: 5%; }
+#lines{ 
+    border-bottom: 17px double black; 
+    border-top: 6px solid black; 
+    content:"";
+    height: 5px; 
+    width:30px;
+}
+body {
+  
+  font-family:"Helvetica Neue",Arial,sans-serif;
+  line-height:1.6;
+  padding:2.618em;
+}
+
+ul {
+  list-style:none;
+}
+
+li {
+  font-weight:bold;
+}
+
+      </style>
